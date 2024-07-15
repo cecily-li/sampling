@@ -10,10 +10,13 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Yu (Cecily) Li
 
 ```
-Please write your explanation here...
+Sampling is occurring within a sample of 1000 people in a single time period where each individual attends one of a brunch, or a wedding event. Each of the 2 weddings have 100 attendees, totalling to 200 people, and each of the 80 brunches has 10 attendees, totalling to 800 people (sampling frame). This was assigned to 'events', and the total of 1000 total people ties back to the sample size in the blog post. The model assumes that the chance of each person being infected is 10% (Attack_rate), and primary contact tracing rate is 20%(trace_success). Additionally, under the secondary contact tracing step, when two infections are traced independently to the same source event, every person who attended that event will be tested and 100% of the infections originating at that specific event will be identified (secondary_trace_threshold). 
+
+After running the script in the python file (as provided in A1), the code does the code appears to reproduce the graphs from the original blog post.
+The reproducibility of the results is relatively high although not 1:1, due to the use of a random seed. 
 
 ```
 
@@ -39,9 +42,9 @@ Please write your explanation here...
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `sampling-and-reproducibility`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
-- [ ] Verify that the link is accessible in a private browser window.
+- [x] Create a branch called `sampling-and-reproducibility`.
+- [x] Ensure that the repository is public.
+- [x] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [x] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
