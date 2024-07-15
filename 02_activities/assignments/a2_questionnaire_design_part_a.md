@@ -16,30 +16,35 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+To establish an understanding of causes of turnover in the entry and lower-level positions of our large tech company as a starting point for HR to develop and establish better retention incentives and identify what changes need to take place in the workplace. 
+
+The overall sampling strategy of the survey is stratified sampling to take into consideration diversity factors such as ethnicity, background, sex, age, etc., as well as years worked at the company.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: Entry level and lower-level employees at the company
+Sampling frame: Entry level and lower-level employees in the software development department (capped at 2 years of experience with the company) as per HR list
+Sampling units: Individuals in the entry level and lower level employees in the software development department
+Observational units: Individual responses to this survey
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. Which team within the software engineering department are you a part of?
+2. How long have you been with this company? If you have been on other teams in the past, please list which departments/teams you have worked on.
+3. Is this your first role out of post-secondary or were you an experienced hire?
+4. On a scale of 1-10, how would you rate your satisfaction in your current role?
+5. If your response to the previous question was less than 9, what are some causes for dissatisfaction in your role?
+6. Have you had any thoughs of leaving in the past year? 
+7. What are your key motivators to stay in a role (i.e., salary, opportunities, good rapport with teammates, supportive leaders, etc.)
+8. What initiatives would you like to see to help improve your satisfaction in your role and at this company? 
+
 ```
 
 ## Rubric
