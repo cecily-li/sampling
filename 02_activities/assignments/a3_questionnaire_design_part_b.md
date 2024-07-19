@@ -4,19 +4,37 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+    I do not expect it to be representative of my target population because it is only going to be shared with one specific department. Someone working in the software engineering department may have a very different experience from someone who is in marketing or sales, and this may skew the overall results.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+    Changes: 
+    i. Added responses for the survey taker to select (where applicable) to streamline survey review process and ensure that the results received are more relevant to the matter at hand.
+    ii. Added a line about anonymity so survey takers will be more willing to share their honest opinions without fearing potential retaliation.
+
+    Updated Survey:
+
+    Note: Your responses will be anonymous and cannot be traced back to you.
+
+    1. Which team within the software engineering department are you a part of?
+        a.Team Blue  b.Team Yellow  c.Team Green  d.Team Red
+    2. How long have you been with this company? If you have been on other teams in the past, please list which departments/teams you have worked on.
+    3. Is this your first role out of post-secondary or were you an experienced hire?
+    4. On a scale of 1-10, how would you rate your satisfaction in your current role? Why?
+        a. Select a value from 1-10  b. Please explain your reasoning for the selected value.
+    5. If your response to the previous question was less than 9, what are some causes for dissatisfaction in your role?
+    6. Have you had any thoughs of leaving in the past year? 
+    7. What are your key motivators to stay in a role (i.e., salary, opportunities, good rapport with teammates, supportive leaders, etc.)
+    8. What initiatives would you like to see to help improve your satisfaction in your role and at this company? 
+
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+    To an extent, but not effectively. The issue of turnover is often caused by an intrinsic difference in ideologies between the individual and the company/team's values and operations. This is difficult to passively observe since individuals are often more reserved when sharing their thoughts and opinions with others in the workplace, if at all. Conducting an observational study would also require a significant amount of resources on the part of the HR team to actively monitor and record the day to day occurrences which may lead to an individual resigning, and even then, not all of the signs/reasons may be noted.  
     ```
 
 ## Why am I doing this assignment?
